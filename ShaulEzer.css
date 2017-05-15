@@ -1,0 +1,191 @@
+@charset "UTF-8";
+#ShaulTitle {
+	position: absolute;
+	height: 68px;
+	width: 345px;
+	left: 460px;
+	top: 50px;
+	background-image: url(images/title.png);
+}
+
+#bio {
+	position:absolute;
+	left:460px;
+	top:145px;
+	width:420px;
+	height:377px;
+	z-index:3;
+	line-height: 15px;
+}
+#goback {
+	position: absolute;
+	height: 101px;
+	width: 150px;
+	left: 180px;
+	top: 700px;
+}
+
+#Books {
+	position:absolute;
+	left:55px;
+	top:432px;
+	width:261px;
+	height:47px;
+	z-index:4;
+	background-image: url(images/BooksHeader.png);
+}
+
+#nubian {
+	position:absolute;
+	left:50px;
+	top:492px;
+	width:123px;
+	height:178px;
+	z-index:5;
+}booktitles {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#spotlight {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:612px;
+	height:660px;
+	z-index:1;
+	background-image: url(images/spotlight.png);
+}
+#Shaul {
+	position:absolute;
+	left:25px;
+	top:20px;
+	width:401px;
+	height:319px;
+	z-index:2;
+	background-image: url(images/shaul.png);
+}.bookcopy {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.booktitles {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#nubiantitle {
+	position:absolute;
+	left:180px;
+	top:492px;
+	width:189px;
+	height:21px;
+	z-index:6;
+}
+#nubiancopy {
+	position:absolute;
+	left:180px;
+	top:515px;
+	width:240px;
+	height:91px;
+	z-index:7;
+}
+.amazonlink {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#contactme {
+	position:absolute;
+	left:55px;
+	top:339px;
+	width:300px;
+	height:1px;
+	z-index:9;
+}
+#oscarwildetitle {
+	height: 21px;
+	width: 230px;
+	left: 180px;
+	top: 700px;
+	z-index:10;
+	position: absolute;
+}
+#oscarwildecopy {
+	position: absolute;
+	z-index: 11;
+	height: 80px;
+	width: 240px;
+	left: 180px;
+	top: 721px;
+}
+#oscarwildedownload {
+	position: absolute;
+	z-index: 12;
+	height: 26px;
+	width: 230px;
+	left: 180px;
+	top: 815px;
+}
+#Montrealtitle {
+	position: absolute;
+	z-index: 13;
+	height: 21px;
+	width: 230px;
+	left: 180px;
+	top: 890px;
+}
+#Montrealcopy {
+	position: absolute;
+	height: 80px;
+	width: 240px;
+	left: 180px;
+	top: 911px;
+}
+#Montrealdownload {
+	position: absolute;
+	height: 26px;
+	width: 230px;
+	left: 180px;
+	top: 1005px;
+}
+#Vancouvertitle {
+	position: absolute;
+	z-index: 13;
+	height: 21px;
+	width: 250px;
+	left: 180px;
+	top: 1070px;
+}
+#Vancouvercopy {
+	position: absolute;
+	height: 80px;
+	width: 240px;
+	left: 180px;
+	top: 1092px;
+}
+#Vancouverdownload {
+	position: absolute;
+	height: 80px;
+	width: 240px;
+	left: 180px;
+	top: 1140px;
+}
+#ixatitle {
+	position: absolute;
+	z-index: 15;
+	height: 21px;
+	width: 250px;
+	left: 180px;
+	top: 1205px;
+}
+#ixacopy {
+	position: absolute;
+	z-index: 16;
+	height: 80px;
+	width: 240px;
+	left: 180px;
+	top: 1225px;
+}
